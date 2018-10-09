@@ -13,6 +13,7 @@
         "production": {
             "user": "Jarrett94",
             "host": ["47.98.119.113"],
+            "port": "39999",
             "ref": "origin/master",
             "repo": "git@github.com:Jarrett94/koa2-nuxt.git",
             "path": "/mnt/www/koa2-nuxt",
